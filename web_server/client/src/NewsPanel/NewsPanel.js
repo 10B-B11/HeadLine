@@ -1,8 +1,5 @@
-import './NewsPanel.css';
 import _ from 'lodash';
-
 import React from 'react';
-
 import Auth from '../Auth/Auth';
 import NewsCard from '../NewsCard/NewsCard';
 
